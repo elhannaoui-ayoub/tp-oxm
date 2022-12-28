@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<banque>
+    <compte type="COURANT">
+        <code>1</code>
+        <solde>4500.0</solde>
+        <dateCreation>2022-12-27T22:10:51.954+01:00</dateCreation>
+    </compte>
+    <compte type="EPARGNE">
+        <code>2</code>
+        <solde>8500.0</solde>
+        <dateCreation>2022-12-27T22:10:51.954+01:00</dateCreation>
+    </compte>
+    <compte type="COURANT">
+        <code>3</code>
+        <solde>9500.0</solde>
+        <dateCreation>2022-12-27T22:10:51.954+01:00</dateCreation>
+    </compte>
+</banque>
